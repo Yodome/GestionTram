@@ -13,5 +13,3 @@ class ligne
 fifo + liste chainée pour les trams
 
 tableaux pour les lignes
-
-test
